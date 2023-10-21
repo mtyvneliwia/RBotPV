@@ -1,1 +1,2 @@
-# RBotPV
+We may collect and store Discord user IDs and server IDs to provide our services effectively.
+We do not collect any personal information such as names, addresses, or contact details.
